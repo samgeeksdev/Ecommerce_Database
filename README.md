@@ -3,7 +3,7 @@
 This repository contains an SQL file for an E-Commerce platform database schema along with sample data.
 
 ### Database Description
-📄 The SQL file (`SQL-DATABASE.sql`) contains the schema definition for the database tables used in the E-Commerce platform. It also includes sample data inserts to provide initial data for testing and development purposes.
+📄 The SQL file (`ecommerce_database.sql`) contains the schema definition for the database tables used in the E-Commerce platform. It also includes sample data inserts to provide initial data for testing and development purposes.
 
 ### Instructions
 📝 **Clone the Repository:**
